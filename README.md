@@ -1,1 +1,3 @@
 # Modern-Control-Systems
+
+Course Description: Analytical representation of the finite dimensional linear systems, analysis and design of linear feedback control systems based on the state space model, and state/output feedback. Topics include: review of the linear spaces and operators, mathematical modelling, state space representation and canonical forms, controllability, observability, realization of transfer function, and solution of the state equation. Applications include: stability concepts and definitions. Lyapunov's Direct Method, design of the state and output feedback control systems, eigenspectrum assignment, and state estimator design. 
